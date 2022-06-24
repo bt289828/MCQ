@@ -1,13 +1,13 @@
 {
-  "main.css": "/MCQ/static/css/main.6ca6910a.chunk.css",
-  "main.js": "/MCQ/static/js/main.f3dcd00f.chunk.js",
-  "main.js.map": "/MCQ/static/js/main.f3dcd00f.chunk.js.map",
+  "main.css": "/MCQ/static/css/main.0522566a.chunk.css",
+  "main.js": "/MCQ/static/js/main.a9c1c3a7.chunk.js",
+  "main.js.map": "/MCQ/static/js/main.a9c1c3a7.chunk.js.map",
   "static/js/1.ddaedf5b.chunk.js": "/MCQ/static/js/1.ddaedf5b.chunk.js",
   "static/js/1.ddaedf5b.chunk.js.map": "/MCQ/static/js/1.ddaedf5b.chunk.js.map",
   "runtime~main.js": "/MCQ/static/js/runtime~main.68cf4172.js",
   "runtime~main.js.map": "/MCQ/static/js/runtime~main.68cf4172.js.map",
-  "static/css/main.6ca6910a.chunk.css.map": "/MCQ/static/css/main.6ca6910a.chunk.css.map",
+  "static/css/main.0522566a.chunk.css.map": "/MCQ/static/css/main.0522566a.chunk.css.map",
   "index.html": "/MCQ/index.html",
-  "precache-manifest.d8afc3afd234c454aaac1001d1bbd0a6.js": "/MCQ/precache-manifest.d8afc3afd234c454aaac1001d1bbd0a6.js",
+  "precache-manifest.cff10cefad28488a19a11be62318dd42.js": "/MCQ/precache-manifest.cff10cefad28488a19a11be62318dd42.js",
   "service-worker.js": "/MCQ/service-worker.js"
 }
